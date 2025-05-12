@@ -95,9 +95,9 @@
           ]),
           e._v(" "),
           t("ul", [
-            t("li", [e._v("Time: Monday 4:30pm - 5:30pm")]),
+            t("li", [e._v("Time: Mondays 4:30pm - 5:30pm")]),
             e._v(" "),
-            t("li", [e._v("Location: CA205")]),
+            t("li", [e._v("Location: WB310")]),
             e._v(" "),
             t("li", [e._v("Delivery: In person")])
           ]),
@@ -117,9 +117,9 @@
           ]),
           e._v(" "),
           t("ul", [
-            t("li", [e._v("Time: Fridays 5:00pm - 7:00pm")]),
+            t("li", [e._v("Time: Mondays 5:30pm - 7:30pm")]),
             e._v(" "),
-            t("li", [e._v("Location: P210")]),
+            t("li", [e._v("Location: WB310")]),
             e._v(" "),
             t("li", [e._v("Delivery: In person")])
           ]),
