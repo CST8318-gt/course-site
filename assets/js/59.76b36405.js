@@ -88,7 +88,7 @@
                 e._v(" "),
                 t("Deliverable", {
                   attrs: {
-                    title: "Exercise  — Gradients in Nature",
+                    title: "Exercise 4 — Gradients in Nature",
                     dueDate: "Refer to Brightspace for your section's due date.",
                     description:
                       "In this exercise, you will use Adobe Illustrator's gradient tools to transform a real-life landscape photograph into a vibrant, gradient-rich illustration, enhancing your skills in gradient techniques, color blending, and vector illustration. By tracing an actual photo, you'll learn to apply gradients effectively to convey depth, dimension, and natural color variations, resulting in a cohesive and visually appealing landscape design.",
