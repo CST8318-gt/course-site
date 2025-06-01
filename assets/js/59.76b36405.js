@@ -96,6 +96,17 @@
                     detailsLink: "./exercises/ex-4.html",
                   },
                 }),
+                e._v(" "),
+                t("Deliverable", {
+                  attrs: {
+                    title: "Exercise 5 — Creating Effective Icons",
+                    dueDate: "Refer to Brightspace for your section's due date.",
+                    description:
+                      "In this exercise, you'll design a cohesive set of icons, ensuring they harmonize in style and functionality.",
+                    linkType: "active",
+                    detailsLink: "./exercises/ex-5.html",
+                  },
+                }),
                ],
               1
             );
