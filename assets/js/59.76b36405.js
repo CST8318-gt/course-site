@@ -118,6 +118,97 @@
                     detailsLink: "./exercises/ex-6.html",
                   },
                 }),
+                e._v(" "),
+                t("h2", {
+                attrs: {
+                    id: "final-project"
+                }
+            }, [t("a", {
+                staticClass: "header-anchor",
+                attrs: {
+                    href: "#final-project"
+                }
+            }, [e._v("#")]), e._v(" Final Project "), t("Badge", {
+                attrs: {
+                    type: "error",
+                    text: "40%"
+                }
+            })], 1), e._v(" "), t("br"), e._v(" "), t("Deliverable", {
+                attrs: {
+                    title: "Part 1: Low-fidelity Wireframes",
+                    dueDate: "Refer to Brightspace for your section's due date.",
+                    description: "In part 1 of your final project, you'll develop a series of low-fidelity wireframes, laying the foundational design blueprint for a website.",
+                    linkType: "active",
+                    detailsLink: "./finalproject/part1.html"
+                }
+            }), e._v(" "), t("Deliverable", {
+                attrs: {
+                    title: "Part 2: Design System",
+                    dueDate: "Refer to Brightspace for your section's due date.",
+                    description: "In part 2 of your final project, you'll develop a mini design system, creating guidelines and standards for elements such as typography, color palettes, and UI components to ensure consistency and coherence in your design approach.",
+                    linkType: "active",
+                    detailsLink: "./finalproject/part2.html"
+                }
+            }), e._v(" "), t("Deliverable", {
+                attrs: {
+                    title: "Part 3: High-fidelity Wireframes",
+                    dueDate: "Refer to Brightspace for your section's due date.",
+                    description: "In part 3 of your final project, you'll elevate your mid-fidelity wireframes to high-fidelity by meticulously applying the principles and elements from your design system, ensuring a polished and detailed representation of your final design concept.",
+                    linkType: "active",
+                    detailsLink: "./finalproject/part3.html"
+                }
+            }), e._v(" "), t("Deliverable", {
+                attrs: {
+                    title: "Part 4: Interactive Visual Prototype",
+                    dueDate: "Refer to Brightspace for your section's due date.",
+                    description: "In part 4 of your final project, you'll bring your high-fidelity wireframes to life by integrating interactivity and animations, preparing them for a comprehensive user testing experience that closely simulates the final product.",
+                    linkType: "active",
+                    detailsLink: "./finalproject/part4.html"
+                }
+            }), e._v(" "), t("Deliverable", {
+                attrs: {
+                    title: "Part 5: Presentations",
+                    dueDate: "Refer to Brightspace for your section's due date.",
+                    description: "In part 5 of your final project, you'll showcase the culmination of your efforts from parts 1 to 5, including a comprehensive presentation and a live demonstration of your interactive prototype, highlighting the journey from initial concepts to the final interactive design.",
+                    linkType: "active",
+                    detailsLink: "./finalproject/part5.html"
+                }
+            }), e._v(" "), t("h2", {
+                attrs: {
+                    id: "quizzes"
+                }
+            }, [t("a", {
+                staticClass: "header-anchor",
+                attrs: {
+                    href: "#quizzes"
+                }
+            }, [e._v("#")]), e._v(" Quizzes "), t("Badge", {
+                attrs: {
+                    type: "error",
+                    text: "15%"
+                }
+            })], 1), e._v(" "), t("br"), e._v(" "), t("Deliverable", {
+                attrs: {
+                    title: "Photoshop Quiz",
+                    dueDate: "Refer to Brightspace for your section's due date.",
+                    linkType: "disabled",
+                    description: "Test your knowledge of the skills and techniques covered in the Photoshop portion of the course, encompassing everything from basic editing tools to advanced image manipulation"
+                }
+            }), e._v(" "), t("Deliverable", {
+                attrs: {
+                    title: "Illustrator Quiz",
+                    dueDate: "Refer to Brightspace for your section's due date.",
+                    linkType: "disabled",
+                    description: "Test your knowledge of the skills and techniques covered in the Illustrator portion of the course, encompassing everything from using the shape tool to creating icons."
+                }
+            }), e._v(" "), t("Deliverable", {
+                attrs: {
+                    title: "Figma Quiz",
+                    dueDate: "Refer to Brightspace for your section's due date.",
+                    linkType: "disabled",
+                    description: "Test your knowledge of the skills and techniques covered in the Figma portion of the course, encompassing everything from using Figma to UI best practices"
+                }
+            })
                ],
               1
             );
