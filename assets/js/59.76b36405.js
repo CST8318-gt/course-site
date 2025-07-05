@@ -173,42 +173,7 @@
                     linkType: "active",
                     detailsLink: "./finalproject/part5.html"
                 }
-            }), e._v(" "), t("h2", {
-                attrs: {
-                    id: "quizzes"
-                }
-            }, [t("a", {
-                staticClass: "header-anchor",
-                attrs: {
-                    href: "#quizzes"
-                }
-            }, [e._v("#")]), e._v(" Quizzes "), t("Badge", {
-                attrs: {
-                    type: "error",
-                    text: "15%"
-                }
-            })], 1), e._v(" "), t("br"), e._v(" "), t("Deliverable", {
-                attrs: {
-                    title: "Photoshop Quiz",
-                    dueDate: "Refer to Brightspace for your section's due date.",
-                    linkType: "disabled",
-                    description: "Test your knowledge of the skills and techniques covered in the Photoshop portion of the course, encompassing everything from basic editing tools to advanced image manipulation"
-                }
-            }), e._v(" "), t("Deliverable", {
-                attrs: {
-                    title: "Illustrator Quiz",
-                    dueDate: "Refer to Brightspace for your section's due date.",
-                    linkType: "disabled",
-                    description: "Test your knowledge of the skills and techniques covered in the Illustrator portion of the course, encompassing everything from using the shape tool to creating icons."
-                }
-            }), e._v(" "), t("Deliverable", {
-                attrs: {
-                    title: "Figma Quiz",
-                    dueDate: "Refer to Brightspace for your section's due date.",
-                    linkType: "disabled",
-                    description: "Test your knowledge of the skills and techniques covered in the Figma portion of the course, encompassing everything from using Figma to UI best practices"
-                }
-            })
+            }),
                ],
               1
             );
