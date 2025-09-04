@@ -110,16 +110,16 @@
             t("a", {
               staticClass: "header-anchor",
               attrs: {
-                href: "#lab-section-011"
+                href: "#lab-section-301"
               }
             }, [e._v("#")]),
-            e._v(" Lab: Section 011")
+            e._v(" Lab: Section 301")
           ]),
           e._v(" "),
           t("ul", [
-            t("li", [e._v("Time: Mondays 5:30pm - 7:30pm")]),
+            t("li", [e._v("Time: Tuesdays 5:00pm - 7:00pm")]),
             e._v(" "),
-            t("li", [e._v("Location: WB310")]),
+            t("li", [e._v("Location: WB130")]),
             e._v(" "),
             t("li", [e._v("Delivery: In person")])
           ]),
