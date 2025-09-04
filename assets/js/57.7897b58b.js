@@ -91,20 +91,20 @@
                 href: "#theory-all-sections"
               }
             }, [e._v("#")]),
-            e._v(" Theory (All Sections)")
+            e._v(" Theory ")
           ]),
           e._v(" "),
           t("ul", [
-            t("li", [e._v("Time: Mondays 4:30pm - 5:30pm")]),
+            t("li", [e._v("Time: Thursdays 5:00pm - 6:00pm")]),
             e._v(" "),
-            t("li", [e._v("Location: WB310")]),
+            t("li", [e._v("Location: WB319")]),
             e._v(" "),
             t("li", [e._v("Delivery: In person")])
           ]),
           e._v(" "),
           t("h3", {
             attrs: {
-              id: "lab-section-011"
+              id: "lab-section-301"
             }
           }, [
             t("a", {
