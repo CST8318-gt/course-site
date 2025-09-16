@@ -63,6 +63,17 @@
                     detailsLink: "./exercises/ex-1.html",
                   },
                 }),
+                e._v(" "),
+                t("Deliverable", {
+                  attrs: {
+                    title: "Exercise 2 — Photo Retouching",
+                    dueDate: "Refer to Brightspace for your section's due date.",
+                    description:
+                      "In this exercise, you'll apply the retouching techniques learned in class, emphasizing the importance of using non-destructive editing methods throughout the task.",
+                    linkType: "active",
+                    detailsLink: "./exercises/ex-2.html",
+                  },
+                }),
                ],
               1
             );
