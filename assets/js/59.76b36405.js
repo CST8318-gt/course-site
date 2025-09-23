@@ -74,6 +74,17 @@
                     detailsLink: "./exercises/ex-2.html",
                   },
                 }),
+                e._v(" "),
+                t("Deliverable", {
+                  attrs: {
+                    title: "Exercise 3 — Logo Recreation",
+                    dueDate: "Refer to Brightspace for your section's due date.",
+                    description:
+                      "In this exercise, you'll learn how to use basic shapes for logo creation using simple shapes and then utilizing pathfinder tools and anchor point manipulation.",
+                    linkType: "active",
+                    detailsLink: "./exercises/ex-3.html",
+                  },
+                }),
                ],
               1
             );
