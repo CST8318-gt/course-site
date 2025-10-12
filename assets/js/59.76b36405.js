@@ -107,6 +107,17 @@
                     detailsLink: "./exercises/ex-5.html",
                   },
                 }),
+                e._v(" "),
+                t("Deliverable", {
+                  attrs: {
+                    title: "Exercise 6 — Animated SVG",
+                    dueDate: "Refer to Brightspace for your section's due date.",
+                    description:
+                      "In this exercise, you'll create an engaging loader using animated SVG in Adobe Illustrator, focusing on design aesthetics, clean export setup, and CSS-based animation styling.",
+                    linkType: "active",
+                    detailsLink: "./exercises/ex-6.html",
+                  },
+                }),
 
                ],
               1
